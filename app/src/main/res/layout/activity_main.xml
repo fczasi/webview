@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="50px"
         android:layout_below="@+id/goback"
-        android:text="powrót"
+        android:text="powrót "
         android:id="@+id/forwardbutt"/>
 
 
