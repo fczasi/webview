@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
         reloadsite = findViewById(R.id.reloadsite);
         zomin = findViewById(R.id.zomin);
         zomout = findViewById(R.id.zomout);
-        goback = findViewById(R.id.goback);
         forwardbutt = findViewById(R.id.forwardbutt);
         zschie = findViewById(R.id.zschie);
 
